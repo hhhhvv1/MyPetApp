@@ -11,7 +11,7 @@ struct MyPetApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ScheduleView()
+            ContentView()
         }
     }
 }
